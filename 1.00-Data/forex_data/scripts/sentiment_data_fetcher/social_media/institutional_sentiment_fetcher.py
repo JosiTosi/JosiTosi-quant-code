@@ -4,9 +4,9 @@ from datetime import datetime
 import os
 from pathlib import Path
 
-class COTDataFetcher:
+class InstitutionalSentimentFetcher:
     def __init__(self):
-        self.base_path = Path("/Users/josua/Documents/Coding/JosiTosi-quant-code/1.00-Data/forex_data/economic_data/cot_data")
+        self.base_path = Path("/Users/josua/Documents/Coding/JosiTosi-quant-code/1.00-Data/forex_data/sentiment_data/institutional")
         self.base_path.mkdir(parents=True, exist_ok=True)
         
     def fetch_cot_data(self, year):
@@ -44,5 +44,5 @@ class COTDataFetcher:
         self.fetch_cftc_data()
 
 if __name__ == "__main__":
-    fetcher = COTDataFetcher()
+    fetcher = InstitutionalSentimentFetcher()
     fetcher.fetch_commitments_of_traders() 

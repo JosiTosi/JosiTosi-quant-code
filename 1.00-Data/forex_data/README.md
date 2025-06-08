@@ -317,6 +317,6 @@ cot_data <- read_csv("cot_data/processed/forex_cot_combined_2020_2023.csv")
 
 ---
 
-**📊 Happy Trading & Analysis! 💱**
+**📊 Happy Trading!**
 
 *Letzte Aktualisierung: Dezember 2024*
