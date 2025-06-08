@@ -52,8 +52,8 @@ JosiTosi-quant-code/
 
 - **Entwicklungsstatus:**
   - [x] COT Data Fetcher
-  - [ ] Mean Reversion Strategie
-  - [ ] Trend Following System
+  - []  COT ML Bias
+  - [ ] Simple SMC strad
 
 ## 🚀 Aktuelle Projekte
 
@@ -63,16 +63,7 @@ JosiTosi-quant-code/
   - Automatisiertes Herunterladen von COT-Daten
   - Intelligentes Caching-System
   - Schöne Konsolenausgabe
-- **Nächste Schritte:**
-  - Integration mit Backtesting-System
-  - Automatische Datenbereinigung
 
-### Mean Reversion Strategie
-- **Status:** 🔄 In Entwicklung
-- **Fokus:**
-  - COT-basierte Mean Reversion
-  - Multi-Timeframe Analyse
-  - Risk Management
 
 ## 📊 Datenmanagement
 
@@ -88,41 +79,14 @@ JosiTosi-quant-code/
 ## 🔧 Technische Details
 
 ### Backtesting Setup
-```python
-# Beispiel Backtesting-Konfiguration
-bt = Backtest(data, Strategy, 
-    cash=100000, 
-    commission=0.002
-)
-```
 
-### Implementierung
-```python
-# Beispiel Trading-Bot Setup
-schedule.every(15).minutes.do(main)
 
-while True:
-    try:
-        schedule.run_pending()
-        time.sleep(1)
-    except Exception as e:
-        print(f"Error: {e}")
-        time.sleep(10)
-```
+### Implementierug
 
-## 📝 Entwicklungslog
 
-### 2024
-- **März:**
-  - Implementierung des COT Data Fetchers
-  - Einrichtung der RBI-Struktur
-  - Erste Backtesting-Versuche
 
-## 🔜 Nächste Schritte
-1. [ ] Mean Reversion Strategie finalisieren
-2. [ ] Backtesting-System optimieren
-3. [ ] Risk Management implementieren
-4. [ ] Live-Trading vorbereiten
+
+
 
 ## 📚 Ressourcen
 - [Backtesting.py Dokumentation](https://kernc.github.io/backtesting.py/)
