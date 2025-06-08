@@ -1,4 +1,4 @@
-# JosiTosi Quant Trading System
+# JosiTosi Quant Trading Code
 
 ## 🎯 Überblick
 Dieses Repository dokumentiert meine Entwicklung eines quantitativen Trading-Systems basierend auf dem RBI-Prinzip (Research, Backtest, Implement). Das System ist in verschiedene Phasen unterteilt, die den Entwicklungsprozess einer Trading-Strategie abbilden.
@@ -52,7 +52,7 @@ JosiTosi-quant-code/
 
 - **Entwicklungsstatus:**
   - [x] COT Data Fetcher
-  - []  COT ML Bias
+  - [ ] COT ML Bias
   - [ ] Simple SMC strad
 
 ## 🚀 Aktuelle Projekte
