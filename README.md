@@ -53,6 +53,7 @@ JosiTosi-quant-code/
 - **Entwicklungsstatus:**
   - [x] COT Data Fetcher
   - [ ] COT ML Bias
+  - [ ] ML Alternative Data für forex Bias
   - [ ] Simple SMC strad
 
 ## 🚀 Aktuelle Projekte
@@ -75,6 +76,9 @@ JosiTosi-quant-code/
   - Automatische Bereinigung
   - Standardisierung der Spalten
   - Historische Daten seit 2006
+
+  # Entwicklungslog
+- 8.Juni: Ich habe die Projekt Strucktur erstellt und Resserach zu verschiedennen Themen betreiben(siehe Commits)
 
 ## 🔧 Technische Details
 
