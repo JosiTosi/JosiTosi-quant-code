@@ -46,3 +46,5 @@ class COTDataFetcher:
 if __name__ == "__main__":
     fetcher = COTDataFetcher()
     fetcher.fetch_commitments_of_traders() 
+
+    
