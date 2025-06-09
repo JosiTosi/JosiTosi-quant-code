@@ -79,8 +79,7 @@ Hinweis: Der hier verwendete RBI-Prozess stammt von MoonDev – ich habe diesen 
   - Standardisierung der Spalten
   - Historische Daten seit 2006
 
-  # Entwicklungslog
-- 8.Juni: Ich habe die Projekt Strucktur erstellt und Resserach zu verschiedennen Themen betreiben(siehe Commits)
+
 
 ## 🔧 Technische Details
 
