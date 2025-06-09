@@ -19,7 +19,7 @@ JosiTosi-quant-code/
 ```
 
 Hinweis: Der hier verwendete RBI-Prozess stammt von MoonDev – ich habe diesen Prozess nicht selbst entwickelt.
- Credits an MoonDev:
+ Credits an MoonDev (777):
 🔗 YouTube: @moondevonyt
 🔗 GitHub: github.com/moondevonyt
 ### 1. 📘 Research
