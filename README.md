@@ -18,11 +18,10 @@ JosiTosi-quant-code/
 └── Implement/             # Live-Trading Implementierungen
 ```
 
-## 🔄 RBI System
-Anmerkung: Dieser RBI Prozess ist von MonnDev, ich habe diesen Prozess nicht selber erfunden!!!!
-MoonDev socials:
-YouTube: https://www.youtube.com/@moondevonyt
-GitHub: https://github.com/moondevonyt
+#Hinweis: Der hier verwendete RBI-Prozess stammt von MoonDev – ich habe diesen Prozess nicht selbst entwickelt.
+ Credits an MoonDev:
+🔗 YouTube: @moondevonyt
+🔗 GitHub: github.com/moondevonyt
 ### 1. 📘 Research
 - **Aktuelle Forschungsschwerpunkte:**
   - COT (Commitments of Traders) Strategien
