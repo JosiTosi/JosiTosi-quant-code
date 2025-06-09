@@ -18,7 +18,7 @@ JosiTosi-quant-code/
 └── Implement/             # Live-Trading Implementierungen
 ```
 
-#Hinweis: Der hier verwendete RBI-Prozess stammt von MoonDev – ich habe diesen Prozess nicht selbst entwickelt.
+Hinweis: Der hier verwendete RBI-Prozess stammt von MoonDev – ich habe diesen Prozess nicht selbst entwickelt.
  Credits an MoonDev:
 🔗 YouTube: @moondevonyt
 🔗 GitHub: github.com/moondevonyt
